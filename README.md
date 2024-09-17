@@ -58,6 +58,7 @@ The model achieves 99% accuracy on the MNIST test dataset after training for a f
 ## 📸 Example
 Here's an example of the input and model prediction:
 
+![MNIST Sample](images/image3.png)
 
 
 
